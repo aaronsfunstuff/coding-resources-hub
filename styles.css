@@ -8,3 +8,13 @@ body{
 a{
   color:white
 }
+.btn{
+  transition-duration: 0.4s;
+  font-size:20px;
+  padding: 14px 40px;
+  border-radius: 4px;
+}
+.btn:hover{
+  background-color:grey;
+  color: white;
+ 
